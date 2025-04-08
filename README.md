@@ -2,7 +2,7 @@
 
 ## Link do vídeo de explicação
 
-https://www.youtube.com/watch?v=d8LCwcs7o1s&ab_channel=gabrielalves
+https://youtu.be/dgmafrzvhOY
 
 ## Funcionamento e objetivos do projeto
 
